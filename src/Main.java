@@ -25,7 +25,6 @@ public class Main {
         String tekstas2 = "sdff35saDSdrff654sadfGS65asS1ergrf";
         System.out.println(tekstas2.replaceAll("[a-zA-Z]",""));
         String episode = "Star Wars: Episode "+ " ".repeat( (int) (Math.random() * 10))+((int) (Math.random() * 7)+1) + " - A New Hope";
-        System.out.println(episode);
 
 
 
